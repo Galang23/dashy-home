@@ -1,6 +1,6 @@
 ---
 pageInfo:
-  title: Dashy
+  title: Cak Sono Dashboard
   navLinks:
   - title: Home
     path: /
@@ -17,6 +17,8 @@ pageInfo:
 appConfig:
   theme: colorful
   fontAwesomeKey: 0821c65656
+  statusCheck: true
+  statusCheckInterval: 15
 sections:
 - name: Cak Sono Group
   items:
