@@ -59,13 +59,13 @@ sections:
 - name: Communication
   items:
   - title: Cypht Webmail (S1)
-      description: Cypht webmail client on S1
-      icon: far fa-envelope
-      url: https://dev.caksono.com/mail
+    description: Cypht webmail client on S1
+    icon: far fa-envelope
+    url: https://dev.caksono.com/mail
   - title: Rainloop Webmail (S2)
-      descruption: Rainloop webmail on S2
-      icon: http://tk2-207-13211.vs.sakura.ne.jp/wp-content/uploads/2015/10/logo-256x256-tiny.png
-      url: https://mail.s2.caksono.com
+    descruption: Rainloop webmail on S2
+    icon: http://tk2-207-13211.vs.sakura.ne.jp/wp-content/uploads/2015/10/logo-256x256-tiny.png
+    url: https://mail.s2.caksono.com
 - name: Cloud Storage
   items:
   - title: Awan, Cak! (Deshbang)
