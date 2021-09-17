@@ -8,6 +8,12 @@ pageInfo:
     path: /about
   - title: Source Code
     path: https://github.com/Lissy93/dashy
+  - title: Dev
+    path: https://dev.caksono.com/
+  - title Blog
+    path: https://www.caksono.com
+  - title: s2
+    path: https://s2.caksono.com
 appConfig:
   theme: colorful
   fontAwesomeKey: 0821c65656
