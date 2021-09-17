@@ -28,6 +28,9 @@ sections:
     description: 'Hyperlink to dev.caksono.com'
     icon: fas fa-laptop-code
     url: https://dev.caksono.com
+  - title: Pembelajaran Cak Sono
+    description: 'Pembelajaran Cak Sono'
+    icon: fal fa-books
 - name: Remote Services
   items:
   - title: Guacamole on S1
@@ -73,6 +76,7 @@ sections:
     icon: https://hostbillapp.com/appstore/hosting_nextcloud/images/thumbnails/m_logo.png
     url: https://nc.caksono.com
 - name: Informational
+  items:
   - title: My Idlers (S1)
     description: My idlers owned server listing
     icon: fad fa-server
