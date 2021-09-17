@@ -8,26 +8,80 @@ pageInfo:
     path: /about
   - title: Source Code
     path: https://github.com/Lissy93/dashy
+  - title: Dev
+    path: https://dev.caksono.com/
+  - title: Blog
+    path: https://www.caksono.com
+  - title: s2
+    path: https://s2.caksono.com
 appConfig:
   theme: colorful
   fontAwesomeKey: 0821c65656
 sections:
-- name: Getting Started
+- name: Cak Sono Group
   items:
-  - title: Source
-    description: Source code and documentation on GitHub
-    icon: fab fa-github
-    url: https://github.com/Lissy93/dashy
-  - title: Issues
-    description: View currently open issues, or raise a new one
-    icon: fas fa-bug
-    url: https://github.com/Lissy93/dashy/issues
-  - title: Demo 1
-    description: 'Live Demo #1'
-    icon: far fa-rocket
-    url: https://dashy-demo-1.netlify.app 
-  - title: Demo 2
-    description: 'Live Demo #2'
-    icon: fad fa-planet-ringed
-    url: https://dashy-demo-2.netlify.app 
-  
+  - title: Blog
+    description: 'Homepage of the blog'
+    icon: fas fa-blog
+    url: https://www.caksono.com
+  - title: Cak Sono Development Page
+    description: 'Hyperlink to dev.caksono.com'
+    icon: fas fa-laptop-code
+    url: https://dev.caksono.com
+  - title: Pembelajaran Cak Sono
+    description: 'Pembelajaran Cak Sono'
+    icon: fal fa-books
+- name: Remote Services
+  items:
+  - title: Guacamole on S1
+    description: Remote control and ssh from web browser
+    icon: https://www.pinclipart.com/picdir/middle/519-5196913_eclipse-time-and-date.png
+    url: https://dev.caksono.com/guacamole
+- name: Management
+  items:
+  - title: S1 Webmin
+    description: Webmin web-based Linux server administration on S1
+    icon: https://3.bp.blogspot.com/-_8YqnnZmMBs/VsvY4xdxBEI/AAAAAAAACM0/vaiCsiRcZyA/s1600/webmin-logo.png
+    url: https://dev.caksono.com:12321
+  - title: S1 Adminer
+    description: Adminer PHP-based database administration on S1
+    icon: far fa-database
+    url: https://dev.caksono.com:12322
+  - title: S2 ISPConfig 3
+    description: ISPConfig 3 to manage S2
+    icon: https://rieskaniemi.com/wp-content/uploads/2018/05/ispconfig_logo-e1574183047576.png
+    url: https://s2.caksono.com:8080/
+  - title: S2 PHPMyAdmin
+    description: PHPMyAdmin MySQL database administration on S2
+    icon: https://linuxtips.us/wp-content/uploads/phpmyadmin-logo.png
+    url: https://s2.caksono.com:8081/phpmyadmin/index.php
+  - title: S1 TinyFileManager
+    description: PHP file manager on S1
+    icon: fas fa-folder
+    url: https://dev.caksono.com/tinyfilemanager/
+- name: Communication
+  items:
+  - title: Cypht Webmail (S1)
+    description: Cypht webmail client on S1
+    icon: far fa-envelope
+    url: https://dev.caksono.com/mail
+  - title: Rainloop Webmail (S2)
+    descruption: Rainloop webmail on S2
+    icon: http://tk2-207-13211.vs.sakura.ne.jp/wp-content/uploads/2015/10/logo-256x256-tiny.png
+    url: https://mail.s2.caksono.com
+- name: Cloud Storage
+  items:
+  - title: Awan, Cak! (Deshbang)
+    description: Nextcloud storage on deshbang
+    icon: https://hostbillapp.com/appstore/hosting_nextcloud/images/thumbnails/m_logo.png
+    url: https://nc.caksono.com
+- name: Informational
+  items:
+  - title: My Idlers (S1)
+    description: My idlers owned server listing
+    icon: fad fa-server
+    url: https://dev.caksono.com/my-idlers
+  - title: Cak Sono's Status Page
+    description: Cak Sono's Status Page by Uptimerobot
+    icon: far fa-chevron-circle-up
+    url: https://stats.uptimerobot.com/Ylp5Ks3yK1
