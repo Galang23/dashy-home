@@ -39,6 +39,22 @@ sections:
     description: Remote control and ssh from web browser
     icon: https://www.pinclipart.com/picdir/middle/519-5196913_eclipse-time-and-date.png
     url: https://dev.caksono.com/guacamole
+- name: Communication
+  items:
+  - title: Cypht Webmail (S1)
+    description: Cypht webmail client on S1
+    icon: far fa-envelope
+    url: https://dev.caksono.com/mail
+  - title: Rainloop Webmail (S2)
+    descruption: Rainloop webmail on S2
+    icon: http://tk2-207-13211.vs.sakura.ne.jp/wp-content/uploads/2015/10/logo-256x256-tiny.png
+    url: https://mail.s2.caksono.com
+- name: Cloud Storage
+  items:
+  - title: Awan, Cak! (Deshbang)
+    description: Nextcloud storage on deshbang
+    icon: https://hostbillapp.com/appstore/hosting_nextcloud/images/thumbnails/m_logo.png
+    url: https://nc.caksono.com
 - name: Management
   items:
   - title: S1 Webmin
@@ -61,22 +77,6 @@ sections:
     description: PHP file manager on S1
     icon: fas fa-folder
     url: https://dev.caksono.com/tinyfilemanager/
-- name: Communication
-  items:
-  - title: Cypht Webmail (S1)
-    description: Cypht webmail client on S1
-    icon: far fa-envelope
-    url: https://dev.caksono.com/mail
-  - title: Rainloop Webmail (S2)
-    descruption: Rainloop webmail on S2
-    icon: http://tk2-207-13211.vs.sakura.ne.jp/wp-content/uploads/2015/10/logo-256x256-tiny.png
-    url: https://mail.s2.caksono.com
-- name: Cloud Storage
-  items:
-  - title: Awan, Cak! (Deshbang)
-    description: Nextcloud storage on deshbang
-    icon: https://hostbillapp.com/appstore/hosting_nextcloud/images/thumbnails/m_logo.png
-    url: https://nc.caksono.com
 - name: Informational
   items:
   - title: My Idlers (S1)
